@@ -10,8 +10,7 @@ Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYzUyMGV
 
 ## Features
 
-- **Finance View**: Explore P&L statements, product analysis, and net sales trends. [Click Here][Uploading Screenshot 2025-09-24 130327.png…]()
- 
+- **Finance View**: Explore P&L statements, product analysis, and net sales trends.
 - **Sales View**: Dive into customer and product performance with dynamic charts and filters.
 - **Marketing View**: Gain insights into product and regional performance metrics.
 - **Supply Chain View**: Analyze forecast accuracy and net error metrics.
