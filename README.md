@@ -14,7 +14,7 @@ Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiYzUyMGV
 - **Sales View**: Dive into customer and product performance with dynamic charts and filters. [Sales View](https://github.com/ankitagupta010/Business_insights/blob/main/sales_view.pdf)
 - **Marketing View**: Gain insights into product and regional performance metrics. [Marketing View](https://github.com/ankitagupta010/Business_insights/blob/main/marketing_view.pdf)
 - **Supply Chain View**: Analyze forecast accuracy and net error metrics. [Supply Chain View](https://github.com/ankitagupta010/Business_insights/blob/main/supply_chain_view.pdf)
-- **Executive View**: Get high-level insights with KPI cards and revenue breakdowns.[Executive View](
+- **Executive View**: Get high-level insights with KPI cards and revenue breakdowns.[Executive View](https://github.com/ankitagupta010/Business_insights/blob/main/executive_view.pdf)
 
 ## Data Sources
 
